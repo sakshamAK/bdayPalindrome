@@ -4,3 +4,4 @@
 
 An app where you can check if your birthday is palindrome or not. If not, then how much away are you from the palindrome date.
 
+[Check it out here](https://palindromeak.netlify.app/)
